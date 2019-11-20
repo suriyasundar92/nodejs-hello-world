@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/fhinkel/nodejs-hello-world/issues"
   },
-  "homepage": "https://github.com/fhinkel/nodejs-hello-world#readme"
+  "homepage": "https://github.com/fhinkel/nodejs-hello-world#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "helmet": "^3.21.2",
+    "superagent": "^5.1.0",
+    "uuid": "^3.3.3"
+  }
 }
